@@ -1,7 +1,7 @@
-import Header from './components/Header.jsx';
-import Login from './components/Login.jsx';
-import Signup from './components/Signup.jsx';
-import StateLogin from './components/StateLogin.jsx';
+import Header from './components/Header.js';
+import Login from './components/Login.js';
+import Signup from './components/Signup.js';
+import StateLogin from './components/StateLogin.js';
 
 function App() {
   return (
