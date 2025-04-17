@@ -24,5 +24,6 @@ React 공부용 개인 저장소
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_17">섹션 17 : 양식 및 사용자 입력 작업</a></li>
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_18">섹션 18 : 폼 엑션을 통해 양식 관리하기</a></li>
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_19">섹션 19 : 연습 프로젝트: 음식 주문 앱 구축하기</a></li>
+  <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_20">섹션 20 : 리덕스에 뛰어들기 (컨텍스트 API의 대안)</a></li>
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_22">섹션 22 : 리액트 라우터가 있는 SPA 다중 페이지 구축하기</a></li>
 </ul>
