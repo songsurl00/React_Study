@@ -14,6 +14,17 @@ body {
   min-height: 100vh;
 }
 
+.error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: indianred;
+  width: fit-content;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0 auto;
+}
+
 #main-header {
   display: flex;
   justify-content: space-between;
@@ -247,6 +258,11 @@ h1 {
 
 .modal::backdrop {
   background-color: rgba(0, 0, 0, 0.55);
+}
+
+.center {
+  width: fit-content;
+  margin: 0 auto;
 }
 
 @keyframes fade-slide-up {
