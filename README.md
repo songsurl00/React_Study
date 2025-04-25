@@ -29,5 +29,6 @@ React 공부용 개인 저장소
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_22">섹션 22 : 리액트 라우터가 있는 SPA 다중 페이지 구축하기</a></li>
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_23">섹션 23 : 리액트앱 인증 추가하기</a></li>
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_24">섹션 24 : 리액트 앱 배포하기</a></li>
+  <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_25">섹션 25 : 리액트 쿼리/Tanstack 쿼리: 간단하게 HTTP 요청 처리</a></li>
   <li><a href="https://github.com/songsurl00/React_Study/tree/main/Section_32">섹션 32 : 리액트 + TypeScript</a></li>
 </ul>
